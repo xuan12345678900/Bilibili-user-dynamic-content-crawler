@@ -1,6 +1,6 @@
 # B站动态内容爬取工具
 
-*Power by Trae and GLM-4.5*
+*Power by iflow, Trae and GLM-4.5*
 
 ## 项目起源
 
